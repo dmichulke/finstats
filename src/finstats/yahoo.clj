@@ -17,7 +17,8 @@
     (str base-url "?" kv-pairs)))
 
 
-(defn parse-string [s]
+(defn parse-string
+  [s]
   {:pre [(string? s)]}
   (->> (str/split-lines s) ;; splits by newline
        rest ;; drops the first line (the header)

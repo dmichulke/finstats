@@ -1,8 +1,8 @@
 # finstats
 
-Analyze some stock market data using yahoo finance and create some charts in with 34 lines of clojure code.
+Analyze some stock market data using yahoo finance and create some charts with 34 lines of clojure code.
 
-See the corresponding blog post on https://valueinanalytics.wordpress.com/
+See the corresponding blog post on http://valueindata.blogspot.com/2015/05/tools-of-trade-and-obtaining-data.html
 
 ## License
 
